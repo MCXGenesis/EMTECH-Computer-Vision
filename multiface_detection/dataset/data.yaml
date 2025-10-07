@@ -1,4 +1,4 @@
 train: images/train
 val : images/val
-nc : 1
-classes : ['jawa']
+nc : 3
+classes : ['maul', 'mario', 'gandhi']
